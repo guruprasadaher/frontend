@@ -17,7 +17,11 @@ const Dashboard = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Welcome Section */}
         <div className="mb-8">
+<<<<<<< HEAD
           <h1 className="text-2xl font-bold text-gray-900">Welcome back, John!</h1>
+=======
+          <h1 className="text-2xl font-bold text-gray-900">Welcome back, Yash!</h1>
+>>>>>>> a3cb5c2 (Updated feature XYZ)
           <p className="text-gray-600">Here's what's happening with your equipment rentals.</p>
         </div>
 

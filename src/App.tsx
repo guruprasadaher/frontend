@@ -6,6 +6,12 @@ import Home from './pages/Home';
 import Contact from './pages/Contact';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
+<<<<<<< HEAD
+=======
+import Bookings from './pages/Bookings';
+import AddProduct from './pages/AddProduct';
+import Help from './pages/Help';
+>>>>>>> a3cb5c2 (Updated feature XYZ)
 
 function App() {
   const [isChatOpen, setIsChatOpen] = useState(false);
@@ -19,6 +25,12 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/register" element={<Register />} />
           <Route path="/dashboard" element={<Dashboard />} />
+<<<<<<< HEAD
+=======
+          <Route path="/bookings" element={<Bookings />} />
+          <Route path="/add-product" element={<AddProduct />} />
+          <Route path="/help" element={<Help />} />
+>>>>>>> a3cb5c2 (Updated feature XYZ)
         </Routes>
 
         {/* Chatbot Icon and Chat Window */}

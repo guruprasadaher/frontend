@@ -58,7 +58,11 @@ const Contact = () => {
                 <MapPin className="h-6 w-6 text-green-600 mr-4" />
                 <div>
                   <h3 className="font-medium text-gray-900">Address</h3>
+<<<<<<< HEAD
                   <p className="text-gray-600">K.K Wagh College</p>
+=======
+                  <p className="text-gray-600">The AgriReinforcement Project, Nashik</p>
+>>>>>>> a3cb5c2 (Updated feature XYZ)
                 </div>
               </div>
               <div className="flex items-start">
